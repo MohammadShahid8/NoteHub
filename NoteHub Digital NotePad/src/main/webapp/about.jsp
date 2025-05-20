@@ -171,7 +171,7 @@ body {
 			<div class="social_box">
 				<a href="https://www.facebook.com/share/19SsWhfHuz/"
 					title="Facebook"> <i class="fab fa-facebook"></i>
-				</a> <a href="https://github.com/Dvpshahid9970" title="GitHub"> <i
+				</a> <a href="https://github.com/MohammadShahid8" title="GitHub"> <i
 					class="fab fa-github"></i>
 				</a> <a href="https://www.linkedin.com/in/mohsha814/" title="LinkedIn">
 					<i class="fab fa-linkedin"></i>
